@@ -13,7 +13,10 @@ The production of the application relied heavily on AlexeyAB's version of [Darkn
 ![Civillian](/pics/example2.png)
 ![Civillian](/pics/example3.png)
 
-[dataset](https://mega.nz/file/jt1l3RIa#Mxx0paLdOb5fJAs4Bu1Z_waYa5Q8HbFMoGNzWl0C8xM)
+##Downloads
 
-[weights](https://mega.nz/file/u8tDDLqR#64C2QchJW3unnAM6k-slaxxGrEO2PRwu_rfx5vpecn0)
+###Dataset 
+[download](https://mega.nz/file/jt1l3RIa#Mxx0paLdOb5fJAs4Bu1Z_waYa5Q8HbFMoGNzWl0C8xM)
+###Weights
+[download](https://mega.nz/file/u8tDDLqR#64C2QchJW3unnAM6k-slaxxGrEO2PRwu_rfx5vpecn0)
 
