@@ -15,6 +15,10 @@ The production of the application relied heavily on AlexeyAB's version of [Darkn
 
 ## Downloads
 
+### Processed video
+Theese results can be produced on live video if you have cloned the Darknet repository referenced above, using main.cpp included in this repository.
+[download](https://mega.nz/file/bslxzDjB#X1X4wZ5_i2LbiFKnJbHR3_kJjXErW3aCWfHKJ1vjfCo)
+
 ### Dataset 
 [download](https://mega.nz/file/jt1l3RIa#Mxx0paLdOb5fJAs4Bu1Z_waYa5Q8HbFMoGNzWl0C8xM)
 ### Weights
