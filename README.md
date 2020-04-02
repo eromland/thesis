@@ -6,7 +6,7 @@ As I am Norwegian, the thesis-document is written in Norwegian, however all of t
 The production of the application relied heavily on AlexeyAB's version of [Darknet](https://github.com/AlexeyAB/darknet)
 
 ## System overview
-![System Overwiev](/pics/overview.png)
+![System Overview](/pics/overview.png)
 
 ## Detection examples
 ![Military](/pics/example.png)
