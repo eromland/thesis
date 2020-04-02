@@ -1,0 +1,22 @@
+Diverse datafiler for å kjøre og trene nettverket.
+
+1. obj.data  
+2. train.txt 
+3. test.txt   
+4. yolov3-Utkikk9000.cfg
+5. obj.names
+
+1. 
+Datafil som forteller nettverket hvor treningsdata, valideringsdata,         klassenavn og antall klasser finnes på disk. Videre forteller filen 	        Darknet hvor vekter skal lagres.
+
+2.
+Datafil som gir filbaner til alle treningseksempler.
+
+3.
+Datafil som gir filbaner til alle valideringseksempler.
+
+4.
+Datafil som beskriver nettverksarkitektur.
+
+5.
+Datafil som beskriver klassenes fulle navn
