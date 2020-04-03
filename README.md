@@ -17,7 +17,7 @@ The production of the application relied heavily on AlexeyAB's version of [Darkn
 
 ### Thesis
 
-[Maskinlæring som klassifiseringsverktøy - den nye Marinen?](link)
+[Maskinlæring som klassifiseringsverktøy - den nye Marinen?](thesis\Bacheloroppgave2018_Omland_Engvik.pdf)
 
 ### Processed video
 Theese results can be produced on live video if you have cloned the Darknet repository referenced above, using main.cpp included in this repository.
@@ -31,14 +31,14 @@ This dataset was produced solely for this project, and totals 7643 labeled image
 
 ## Prerequisites/Software used 
 
-Installed version of [Darknet](https://github.com/AlexeyAB/darknet). On AlexeyAB's repository, you will find detailed installation guides for your system.
-Labeling images: [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
-[OpenCV 3.4.0](https://opencv.org/releases.html)
-[CUDA 9.1](https://developer.nvidia.com/cuda-91-download-archive)
+Installed version of [Darknet](https://github.com/AlexeyAB/darknet). On AlexeyAB's repository, you will find detailed installation guides for your system.  
+Labeling images: [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)  
+[OpenCV 3.4.0](https://opencv.org/releases.html)  
+[CUDA 9.1](https://developer.nvidia.com/cuda-91-download-archive)  
 Python script for web-scraping large amounts of image data: [ScrapeImages.py](https://gist.github.com/genekogan/ebd77196e4bf0705db51f86431099e57)
 
 ## How to use
-Follow installation guide according to AlexeyAB's darknet repository
-Make sure to include [yolo_v2_class.hpp](https://github.com/AlexeyAB/darknet/blob/master/include/yolo_v2_class.hpp) (Already done in funksjoner.h, from this repository)
-Download weights referenced above, remember to apply correct paths according to your system for all files
-Build project and run main.cpp from this repository
+Follow installation guide according to AlexeyAB's darknet repository  
+Make sure to include [yolo_v2_class.hpp](https://github.com/AlexeyAB/darknet/blob/master/include/yolo_v2_class.hpp) (Already done in funksjoner.h, from this repository)  
+Download weights referenced above, remember to apply correct paths according to your system for all files  
+Build project and run main.cpp from this repository  
