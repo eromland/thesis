@@ -17,7 +17,7 @@ The production of the application relied heavily on AlexeyAB's version of [Darkn
 
 ### Thesis
 
-[Maskinlæring som klassifiseringsverktøy - den nye Marinen?](thesis\Bacheloroppgave2018_Omland_Engvik.pdf)
+[Maskinlæring som klassifiseringsverktøy - den nye Marinen?](thesis/Bacheloroppgave2018_Omland_Engvik.pdf)
 
 ### Processed video
 Theese results can be produced on live video if you have cloned the Darknet repository referenced above, using main.cpp included in this repository.
